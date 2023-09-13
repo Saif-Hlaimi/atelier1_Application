@@ -1,0 +1,1 @@
+la base des données a été crée avec succées en utilisant Wampserver et phpMyAdmin

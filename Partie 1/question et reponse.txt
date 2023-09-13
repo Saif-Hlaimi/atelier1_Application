@@ -1,0 +1,5 @@
+Application : 
+Partie 1 : 
+Question 2.d : On remarque que les données de fromulaire sont s'apparaient dans la barra d'adresses lors de leurs transfert. 
+Question 3 : On remarque des erreurs.
+Question 5 : On remarque que les données ne sont pas transmis si on enleve GET.
